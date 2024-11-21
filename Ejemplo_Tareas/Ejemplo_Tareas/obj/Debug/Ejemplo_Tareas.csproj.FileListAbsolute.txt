@@ -1,0 +1,7 @@
+C:\Users\Hp\OneDrive\Documentos\Ejemplo_Tareas\Ejemplo_Tareas\bin\Debug\Ejemplo_Tareas.exe.config
+C:\Users\Hp\OneDrive\Documentos\Ejemplo_Tareas\Ejemplo_Tareas\bin\Debug\Ejemplo_Tareas.exe
+C:\Users\Hp\OneDrive\Documentos\Ejemplo_Tareas\Ejemplo_Tareas\bin\Debug\Ejemplo_Tareas.pdb
+C:\Users\Hp\OneDrive\Documentos\Ejemplo_Tareas\Ejemplo_Tareas\obj\Debug\Ejemplo_Tareas.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Documentos\Ejemplo_Tareas\Ejemplo_Tareas\obj\Debug\Ejemplo_Tareas.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Documentos\Ejemplo_Tareas\Ejemplo_Tareas\obj\Debug\Ejemplo_Tareas.exe
+C:\Users\Hp\OneDrive\Documentos\Ejemplo_Tareas\Ejemplo_Tareas\obj\Debug\Ejemplo_Tareas.pdb
